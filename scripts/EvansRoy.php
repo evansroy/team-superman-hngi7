@@ -1,3 +1,7 @@
 <?php
-echo "Hello World, this is Evans Roy with HGi7 ID HNG-04524 using PHP for stage 2 task";
+$fullName = "Evans Roy";
+$hngId= "HNG-04524";
+$language = "PHP";
+$email = "evansroysir@gmail.com";
+echo "Hello World, this is" .$fullName. "with HGi7 ID" .$hngId. "using" .$language. "for stage 2 task".$email;
 ?>
